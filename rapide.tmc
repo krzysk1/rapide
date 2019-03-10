@@ -1,7 +1,7 @@
 ﻿<[file][][]
     <[object][][]
         <[int][Version][210]>
-        <[vec32array][ContactSpheres][ (-6.409 -0.000 -0.348 0.113) (0.591 1.791 -1.481 0.341) (0.591 -1.791 -1.481 0.341) ]>
+        <[vec32array][ContactSpheres][ (-6.409 -0.0 -0.348 0.113) (0.591 1.791 -1.481 0.341) (0.591 -1.791 -1.481 0.341) ]>
         <[string8][DisplayName][DH.89 Dragon Rapide]>
         <[string8][DescriptionTextEN][The de Havilland DH.89 Dragon Rapide was a 1930s British short-haul biplane airliner for 6 - 8 passengers. It proved an economical and durable craft, despite its relatively primitive plywood construction.
 		Made by Krzysztof Kaniewski, 3D model from cadnav.com.]>
