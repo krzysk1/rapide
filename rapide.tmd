@@ -1189,7 +1189,7 @@
                 <[uint32][OrientationID][Fuselage.Q]>
             >
             <[rigidbodygraphics][Glass][]
-                <[string8][GeometryList][ Glass ]>
+                <[string8][GeometryList][ Glass GlassInt ]>
                 <[uint32][PositionID][Fuselage.R]>
                 <[uint32][OrientationID][Fuselage.Q]>
             >
